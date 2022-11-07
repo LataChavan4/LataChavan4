@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LataChavan4
 - 👀 I’m interested in cloud architecture
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
